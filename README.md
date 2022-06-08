@@ -36,7 +36,7 @@ Unzip the **KlvStreamerSetup-V.1.0.29** file and run the **setup**.
 
 |          | Version             | Download link                                                           | 
 |:---------|:-------------------:|:------------------------------------------------------------------------|
-| **KlvStreamer** |  v1.0.0.29 | [KlvStreamerSetup-V.1.0.29](https://github.com/impleotv/klvstreamer-release/releases/latest/download/KlvStreamerSetup-V.1.0.29.zip) | 
+| **KlvStreamer** |  v1.0.0.29 | [KlvStreamerSetup-V.1.0.29](https://github.com/impleotv/klvstreamer-release/releases/download/v1.0.0.29/KlvStreamerSetup-V.1.0.29.zip) | 
 
 
 
