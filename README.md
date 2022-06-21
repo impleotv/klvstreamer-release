@@ -7,7 +7,7 @@
 
 # KlvStreamer
 
-**KlvStreamer** is a software for re-streaming STANAG TS files over IP networks.
+**KlvStreamer** is software for re-streaming STANAG TS files over IP networks.
 More [info](https://impleotv.com/products/applications/klvstreamer).
 
 ## System Requirements
@@ -29,7 +29,7 @@ Click Download and select **vcredist_x86.exe** and run the installer
 
 Click Download and select **vcredist_x86.exe** and run the installer
 
-**KlvStreamer** can be downloaded as a **zip** file that contains installer.  
+**KlvStreamer** can be downloaded as a **zip** file that contains the installer.  
 Unzip the **KlvStreamerSetup-V.1.0.29** file and run the **setup**.
 
 ## Download link
@@ -43,7 +43,7 @@ Unzip the **KlvStreamerSetup-V.1.0.29** file and run the **setup**.
 
 ## License
 
-**KlvStreamer** is a node locked software. In order to get the license, please install it and fill an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
+**KlvStreamer** is a node-locked software. In order to get the license, please install it and fill out an [online form](https://docs.google.com/forms/d/e/1FAIpQLSd_XW6bDsFce1G1cpds4gMQNlwNax0CvkWzcMbscxZ5rLaIbA/viewform), providing the ***Node Info*** string (IMPORTANT!!!) for the target machine.  
 ***Node Info*** string can be found at ***Options->License***, as shown below.
 
 ![NodeInfo string](images/license.png)
@@ -51,4 +51,4 @@ Unzip the **KlvStreamerSetup-V.1.0.29** file and run the **setup**.
 Please copy-paste *Node Info*, don't send an image...
 
 You'll get back a **license** file and a **key**.
-Select the license file in the *Options/License* page and apply the provided key.
+Select the license file on the *Options/License* page and apply the provided key.
