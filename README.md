@@ -30,7 +30,7 @@ Click Download and select **vcredist_x86.exe** and run the installer
 Click Download and select **vcredist_x86.exe** and run the installer
 
 **KlvStreamer** can be downloaded as a **zip** file that contains the installer.  
-Unzip the **KlvStreamerSetup-V.1.0.29** file and run the **setup**.
+Unzip the **KlvStreamerSetup-V.1.0.29** file and run the **setup.exe**.
 
 ## Download link
 
