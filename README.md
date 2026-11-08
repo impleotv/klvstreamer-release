@@ -2,7 +2,7 @@
   <img src="images/impleo_logo.png" alt="ImpleoTV logo">
 </div>
 
-# KlvStreamer 2.0.0
+# KlvStreamer 2.0.1
 
 **KlvStreamer** re-streams STANAG 4609 transport-stream files over IP networks.
 Build playlists of CBR or VBR files, send them over unicast or multicast UDP,
@@ -16,15 +16,11 @@ preview video and KLV metadata, and inspect bitrate statistics.
 
 | Version | Installer |
 | --- | --- |
-| **2.0.0** | Awaiting code signing; download will be added when the signed installer is published. |
+| **2.0.1** | [Download the signed offline installer](https://github.com/impleotv/klvstreamer-release/releases/download/v2.0.1/KlvStreamerSetup-2.0.1-x86.exe) |
 
-Version 2.0.0 uses a standalone **offline installer**. It includes .NET Framework
-4.8, the required runtime libraries and DirectShow filters, the ImpleoTV video
-decoder, and the User Guide.
+Version 2.0.1 uses a standalone **offline installer**. It includes .NET Framework 4.8, the required runtime libraries and DirectShow filters, the ImpleoTV video decoder, and the User Guide.
 
-**Installing an older version?** Open the [legacy installation instructions for
-version 1.0.30 and earlier](LEGACY-INSTALLATION.md), including the original ZIP
-download and manual prerequisite links.
+**Installing an older version?** See the [legacy installation instructions](LEGACY-INSTALLATION.md) for version 1.0.30 and earlier.
 
 ## System Requirements
 
@@ -40,7 +36,7 @@ If you select a different decoder in **Options → Misc**, install it separately
 
 ## Installation
 
-1. Once version 2.0.0 is published, download `KlvStreamerSetup-2.0.0-x86.exe`
+1. Download `KlvStreamerSetup-2.0.1-x86.exe`
    from the [GitHub releases page](https://github.com/impleotv/klvstreamer-release/releases).
 2. Close KlvStreamer, run the installer, and approve the administrator prompt.
 3. Follow the setup wizard. On 64-bit Windows, the default installation folder is
