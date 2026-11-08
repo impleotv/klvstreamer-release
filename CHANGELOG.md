@@ -1,5 +1,11 @@
 # Release Notes
 
+## 2.0.1 - 2026-11-08
+
+- Signed offline installer, application binary, offline User Guide, and website help archives.
+- Includes .NET Framework 4.8, runtime libraries, DirectShow filters, and the default ImpleoTV decoder.
+
+
 ## 2.0.0 — Pending Release
 
 The installer is awaiting code signing. Version 2.0.0 is not yet published.
